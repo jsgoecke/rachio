@@ -2,6 +2,8 @@
 
 **WORK IN PROGRESS**
 
+[![wercker status](https://app.wercker.com/status/fc566cfb19f155d3d4261e186f8142e7/s/master "wercker status")](https://app.wercker.com/project/byKey/fc566cfb19f155d3d4261e186f8142e7)
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/jsgoecke/rachio/master/images/rachio.png">
 </p>
